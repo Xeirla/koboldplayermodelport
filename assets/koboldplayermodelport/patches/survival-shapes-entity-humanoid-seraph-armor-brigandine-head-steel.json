@@ -1,0 +1,114 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/rotationZ",
+    "value": -45.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/from/0",
+    "value": -1.4,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/from/1",
+    "value": -0.7,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/rotationOrigin/0",
+    "value": -1.4,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/rotationOrigin/1",
+    "value": -0.7,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/to/0",
+    "value": -0.9,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/to/1",
+    "value": 1.4,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/2",
+    "value": 41.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/0",
+    "value": 46.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/2",
+    "value": 41.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/0",
+    "value": 54.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-steel.json"
+  }
+]

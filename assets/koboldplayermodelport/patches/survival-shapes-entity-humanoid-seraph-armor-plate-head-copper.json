@@ -1,0 +1,206 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1",
+    "value": {
+      "name": "ArmorHelmetop",
+      "from": [
+        0.5,
+        6.0,
+        0.5
+      ],
+      "to": [
+        6.1,
+        6.5,
+        5.8
+      ],
+      "autoUnwrap": false,
+      "uv": [
+        39.5,
+        27.5
+      ],
+      "rotationOrigin": [
+        0.5,
+        6.0,
+        0.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#material",
+          "uv": [
+            39.5,
+            20.5,
+            45.0,
+            21.0
+          ]
+        },
+        "east": {
+          "texture": "#material",
+          "uv": [
+            33.5,
+            18.5,
+            38.5,
+            19.0
+          ]
+        },
+        "south": {
+          "texture": "#material",
+          "uv": [
+            39.5,
+            24.5,
+            45.0,
+            25.0
+          ]
+        },
+        "west": {
+          "texture": "#material",
+          "uv": [
+            33.5,
+            14.5,
+            38.5,
+            15.0
+          ]
+        },
+        "up": {
+          "texture": "#material",
+          "uv": [
+            46.0,
+            21.0,
+            51.5,
+            26.0
+          ]
+        }
+      }
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2",
+    "value": {
+      "name": "ArmorFace2",
+      "from": [
+        -3.0,
+        3.0,
+        2.0
+      ],
+      "to": [
+        -2.5,
+        6.0,
+        4.2
+      ],
+      "autoUnwrap": false,
+      "uv": [
+        44.0,
+        27.0
+      ],
+      "rotationOrigin": [
+        -3.0,
+        3.0,
+        2.0
+      ],
+      "rotationZ": -90.0,
+      "faces": {
+        "north": {
+          "texture": "#material",
+          "uv": [
+            34.5,
+            20.5,
+            35.0,
+            23.5
+          ]
+        },
+        "south": {
+          "texture": "#material",
+          "uv": [
+            37.0,
+            20.5,
+            37.5,
+            23.5
+          ]
+        },
+        "west": {
+          "texture": "#material",
+          "uv": [
+            35.0,
+            20.5,
+            37.0,
+            23.5
+          ]
+        },
+        "up": {
+          "texture": "#material",
+          "uv": [
+            39.0,
+            22.0,
+            39.5,
+            24.0
+          ]
+        },
+        "down": {
+          "texture": "#material",
+          "uv": [
+            32.5,
+            24.5,
+            33.0,
+            26.5
+          ]
+        }
+      }
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/3",
+    "value": 33.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/0",
+    "value": 26.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 45.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/0",
+    "value": 26.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-copper.json"
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        0.0,
+        1.0,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        5.0,
+        5.5,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        5.0,
+        0.5,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        5.5,
+        5.0,
+        6.0,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        0.0,
+        12.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/1/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        0.5,
+        6.5,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/1/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.5,
+        0.5,
+        12.5,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        6.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/1/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        12.5,
+        0.5,
+        13.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/1/faces/north/uv/2",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/1/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/2/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        0.0,
+        12.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/2/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        0.5,
+        6.5,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/2/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.5,
+        4.5,
+        20.5,
+        6.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/2/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        6.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/2/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        12.5,
+        0.5,
+        13.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/2/faces/south/uv/2",
+    "value": 22.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/2/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/3/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        0.0,
+        1.0,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/3/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        5.0,
+        0.5,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/3/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        5.5,
+        5.0,
+        6.0,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/3/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/3/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        5.0,
+        11.0,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/3/from/0",
+    "value": 6.7,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/3/rotationOrigin/0",
+    "value": 6.7,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/3/to/0",
+    "value": 6.7,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        26.0,
+        20.0,
+        31.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        17.0,
+        6.0,
+        22.0,
+        12.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/2",
+    "value": 9.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/to/0",
+    "value": 6.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        0.5,
+        0.0,
+        1.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        0.5,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/north",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        0.0,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/south",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        1.0,
+        0.5,
+        1.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/up",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        1.5,
+        0.5,
+        2.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/name",
+    "value": "hideme",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        6.5,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        27.0,
+        16.0,
+        32.0,
+        24.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        20.0,
+        9.0,
+        26.5
+      ],
+      "rotation": 270,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        20.5,
+        9.0,
+        27.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        17.0,
+        5.5,
+        22.0,
+        12.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        22.0,
+        10.0,
+        27.0,
+        18.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/tonsure.json"
+  }
+]

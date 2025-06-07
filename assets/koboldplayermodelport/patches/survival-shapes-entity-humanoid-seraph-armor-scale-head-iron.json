@@ -1,0 +1,176 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/east",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        32.5,
+        35.5,
+        33.5,
+        37.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/up",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        32.5,
+        35.5,
+        33.0,
+        36.5
+      ],
+      "rotation": 180,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/children/0/faces/east",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        50.0,
+        40.5,
+        51.5,
+        41.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/east",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        51.0,
+        31.0,
+        52.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/up",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        50.5,
+        30.0,
+        51.0,
+        31.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/2/children/0/faces/east",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        53.5,
+        36.5,
+        55.0,
+        37.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/2/faces/east",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        51.0,
+        31.0,
+        52.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/2/faces/up",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        50.5,
+        30.0,
+        51.0,
+        31.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/east",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        32.0,
+        41.5,
+        38.0,
+        44.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/down",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        36.0,
+        35.5,
+        41.5,
+        40.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/1",
+    "value": 0.3,
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/1",
+    "value": 0.3,
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/1",
+    "value": 5.8,
+    "file": "game:shapes/entity/humanoid/seraph/armor/scale/head-iron.json"
+  }
+]

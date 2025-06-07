@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/textureSizes",
+    "value": {},
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/editor/singleTexture",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/body.json"
+  },
+  {
+    "op": "add",
+    "path": "/editor/entityTextureMode",
+    "value": true,
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/6/children/0/faces/down",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/7/children/0/faces/down",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/body.json"
+  }
+]

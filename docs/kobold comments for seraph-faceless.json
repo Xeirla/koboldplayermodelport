@@ -1,0 +1,21 @@
+  {"kobold-comment": "=================================================================================="},
+  {"kobold-comment": "First, replace the player animation array an empty one"},
+  {"kobold-comment": "This is much better than calling over 200 individual remove operations (seriously, why)"},
+  {"kobold-comment": "=================================================================================="},
+
+
+
+  {"kobold-comment": "=================================================================================="},
+  {"kobold-comment": "Second, reconstruct the entire array with a single addeach, with all animations from latest vanilla game stable version"},
+  {"kobold-comment": "If this ever is changed in an update, new animations will simply not play and be easy to catch"},
+  {"kobold-comment": "This avoids needing to reference by index entirely and makes updating the mod WAY easier,"},
+  {"kobold-comment": "as you can just copy-paste any new animations visually into where they should be, instead of needing to adjust every index."},
+  {"kobold-comment": "NOTE: Rotation and offsets should be swapped for better readability, but vanilla orders them this way so w/e."},
+  {"kobold-comment": "=================================================================================="},
+
+
+
+    {"kobold-comment": "=================================================================================="},
+  {"kobold-comment": "Finally, remove seraph vanilla textures, and replace allAngles, entityTextureMode, and elements to define the kobold 3d model armature"},
+  {"kobold-comment": "/elements MUST be a replace operation to work properly"},
+  {"kobold-comment": "=================================================================================="},

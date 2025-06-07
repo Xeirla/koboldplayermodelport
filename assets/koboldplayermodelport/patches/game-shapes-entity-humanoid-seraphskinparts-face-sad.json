@@ -1,0 +1,359 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        53.5,
+        1.0,
+        54.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/1/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        53.5,
+        0.5,
+        54.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        62.0,
+        0.5,
+        62.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        57.5,
+        0.5,
+        58.5,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        53.5,
+        0.5,
+        54.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/children/1/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        53.5,
+        2.0,
+        54.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        62.0,
+        0.5,
+        62.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        56.5,
+        2.5,
+        57.5,
+        3.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        39.0,
+        2.5,
+        39.5,
+        3.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        36.5,
+        1.5,
+        37.5,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        42.0,
+        1.5,
+        42.5,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        37.5,
+        2.5,
+        38.5,
+        3.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/children/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        33.0,
+        1.5,
+        34.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/children/1/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        30.0,
+        0.5,
+        31.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        41.0,
+        1.0,
+        42.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        34.5,
+        0.5,
+        35.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        32.0,
+        0.5,
+        33.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        0.0,
+        11.0,
+        5.0,
+        17.0
+      ],
+      "rotation": 90
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/east",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        0.0,
+        6.0,
+        5.0,
+        11.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/north",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        0.0,
+        6.0,
+        6.0,
+        11.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/south",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        0.0,
+        6.0,
+        6.0,
+        11.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/up",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        0.0,
+        0.0,
+        5.0,
+        6.0
+      ],
+      "rotation": 90
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/west",
+    "value": {
+      "texture": "#seraph",
+      "uv": [
+        0.0,
+        6.0,
+        5.0,
+        11.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/name",
+    "value": "root",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/face/sad.json"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/2",
+    "value": 41.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/0",
+    "value": 46.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/2",
+    "value": 41.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/from/0",
+    "value": 2.9,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/from/1",
+    "value": 4.8,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/from/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationOrigin/0",
+    "value": 2.9,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationOrigin/1",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationOrigin/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/to/0",
+    "value": 8.9,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/to/1",
+    "value": 5.3,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/to/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/from/0",
+    "value": 2.9,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/from/1",
+    "value": 4.8,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/from/2",
+    "value": -0.6,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/rotationOrigin/0",
+    "value": 2.9,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/rotationOrigin/1",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/rotationOrigin/2",
+    "value": -0.1,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/to/0",
+    "value": 8.9,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/to/1",
+    "value": 5.3,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/to/2",
+    "value": 0.4,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/0",
+    "value": 54.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/head-silver.json"
+  }
+]

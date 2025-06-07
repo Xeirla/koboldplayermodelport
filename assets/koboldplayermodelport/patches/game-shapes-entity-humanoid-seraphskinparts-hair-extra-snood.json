@@ -1,0 +1,24 @@
+[
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/0",
+    "value": 5.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/snood.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 7.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/snood.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/snood.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/snood.json"
+  }
+]

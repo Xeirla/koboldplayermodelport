@@ -1,0 +1,95 @@
+[
+  {
+    "op": "add",
+    "path": "/textureSizes",
+    "value": {},
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/editor/singleTexture",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "add",
+    "path": "/editor/entityTextureMode",
+    "value": true,
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/faces/down",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/faces/west",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/faces/west",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/faces/west",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/1",
+    "value": -0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/1",
+    "value": -0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/1",
+    "value": 5.3,
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/0/faces/down",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/1/faces/west",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/2/faces/west",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/3/faces/west",
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/from/1",
+    "value": -0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/rotationOrigin/1",
+    "value": -0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/1",
+    "value": 5.3,
+    "file": "game:shapes/entity/humanoid/seraph/armor/lamellar/legs.json"
+  }
+]

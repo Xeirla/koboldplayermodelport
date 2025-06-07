@@ -1,0 +1,391 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        13.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/south",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        13.0,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/up",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        13.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/down",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        13.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/east",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/north",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        13.0,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/up",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        13.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/west",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/down",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        13.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/north",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/south",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/up",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        13.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/west",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        13.0,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/down",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        13.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/east",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        13.0,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/north",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/south",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/up",
+    "value": {
+      "texture": "#bamboo-conehat-large",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        13.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/children/0/faces/down",
+    "value": {
+      "texture": "#bamboo-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/children/0/faces/up",
+    "value": {
+      "texture": "#bamboo-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/children/1/faces/down",
+    "value": {
+      "texture": "#bamboo-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/children/1/faces/up",
+    "value": {
+      "texture": "#bamboo-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/0",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/name",
+    "value": "Conehat-Head",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/0",
+    "value": 3.3,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/bamboo-conehat-large.json"
+  }
+]

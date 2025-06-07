@@ -1,0 +1,61 @@
+[
+  {
+    "op": "add",
+    "path": "/textureSizes",
+    "value": {},
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/editor/singleTexture",
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "add",
+    "path": "/editor/entityTextureMode",
+    "value": true,
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/from/1",
+    "value": 1.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/rotationOrigin/1",
+    "value": 1.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/to/1",
+    "value": 8.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/5/from/1",
+    "value": 1.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/5/rotationOrigin/1",
+    "value": 1.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/5/to/1",
+    "value": 8.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/improvised/body.json"
+  }
+]

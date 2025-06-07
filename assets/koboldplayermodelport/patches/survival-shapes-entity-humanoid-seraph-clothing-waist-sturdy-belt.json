@@ -1,0 +1,628 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/west",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        3.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/south",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        3.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/north",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        3.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/north",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        3.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/south",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/down/uv/3",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/north/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/up/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/west/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/south",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        4.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/west",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/south",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        4.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/west",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/north",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        4.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/west",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/north",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        4.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/west",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/9/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/9/faces/down/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/children/0/faces/down",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/children/0/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/children/1/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/children/1/faces/up",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/children/2/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        1.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/children/2/faces/north",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/10/children/2/faces/down/windData",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/10/children/2/faces/down/windMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/10/children/2/faces/down/uv/0",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/10/children/2/faces/down/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/children/3/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        1.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        1.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/faces/south",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/11/faces/east",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        5.0,
+        6.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/up",
+    "value": {
+      "texture": "#sturdy-belt",
+      "uv": [
+        0.0,
+        0.0,
+        5.0,
+        6.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/waist/sturdy-belt.json"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        27.0,
+        25.5,
+        12.0
+      ],
+      "rotation": 90,
+      "enabled": false,
+      "autoUv": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/2",
+    "value": -0.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/2",
+    "value": 5.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        39.0,
+        34.5,
+        45.0,
+        41.5
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        19.0,
+        10.5,
+        25.0,
+        18.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        10.5,
+        7.0,
+        18.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        12.5,
+        10.5,
+        19.5,
+        18.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        26.0,
+        11.0,
+        32.0,
+        18.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.5,
+        10.5,
+        12.5,
+        18.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/hair",
+    "value": "entity/humanoid/seraphskinparts/hair/lightgray",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/short.json"
+  }
+]

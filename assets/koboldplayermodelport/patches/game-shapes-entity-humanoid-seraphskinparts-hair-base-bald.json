@@ -1,0 +1,187 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        27.0,
+        25.5,
+        12.0
+      ],
+      "rotation": 90,
+      "enabled": false,
+      "autoUv": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        18.0,
+        1.0,
+        23.5,
+        9.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        1.0,
+        6.5,
+        9.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        11.0,
+        1.0,
+        17.5,
+        9.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        24.0,
+        0.0,
+        29.5,
+        6.5
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        0.5,
+        11.5,
+        9.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        39.0,
+        34.5,
+        45.0,
+        41.5
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        19.0,
+        10.5,
+        25.0,
+        18.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        10.5,
+        7.0,
+        18.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        12.5,
+        10.5,
+        19.5,
+        18.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        26.0,
+        11.0,
+        32.0,
+        18.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.5,
+        10.5,
+        12.5,
+        18.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/bald.json"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/autoUnwrap",
+    "value": false,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east/autoUv",
+    "value": false,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/0",
+    "value": 49.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/2",
+    "value": 55.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/2",
+    "value": 49.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/south/autoUv",
+    "value": false,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/0",
+    "value": 55.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/2",
+    "value": 56.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west/autoUv",
+    "value": false,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/1",
+    "value": -3.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/2",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/1",
+    "value": -3.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/2",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/2",
+    "value": 6.1,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/2",
+    "value": 55.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/0",
+    "value": 38.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/0",
+    "value": 38.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/0",
+    "value": 38.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/0",
+    "value": 34.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/leather/head.json"
+  }
+]

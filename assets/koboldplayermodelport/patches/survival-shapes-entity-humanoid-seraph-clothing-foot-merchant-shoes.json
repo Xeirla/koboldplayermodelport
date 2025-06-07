@@ -1,0 +1,308 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/down/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/north/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/south/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/up/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/down/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/north/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/up/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/8/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/8/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/8/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/9/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/9/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/9/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/stepParentName",
+    "value": "PawR",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/4/faces/down/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/4/faces/north/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/4/faces/south/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/4/faces/up/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/4/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/faces/down/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/faces/north/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/faces/south/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/faces/up/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/8/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/8/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/8/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/9/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/9/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/9/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/down/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/2",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/stepParentName",
+    "value": "PawL",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/merchant-shoes.json"
+  }
+]

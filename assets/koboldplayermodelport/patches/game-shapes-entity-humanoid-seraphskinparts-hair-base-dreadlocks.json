@@ -1,0 +1,652 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/2/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/2/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/from/0",
+    "value": 5.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/rotationOrigin/0",
+    "value": 6.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/3/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/3/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/from/0",
+    "value": 5.9,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/rotationOrigin/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/to/0",
+    "value": 6.9,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/4/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/4/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/4/from/0",
+    "value": 5.9,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/4/rotationOrigin/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/4/to/0",
+    "value": 6.9,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/5/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/5/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/5/from/0",
+    "value": 5.9,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/5/rotationOrigin/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/5/to/0",
+    "value": 6.9,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/6/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/6/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/6/from/0",
+    "value": 5.9,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/6/rotationOrigin/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/6/to/0",
+    "value": 6.9,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/7/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/7/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/8/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/8/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/9/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/9/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        1.0,
+        0.0,
+        2.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        2.0,
+        1.0,
+        3.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        3.0,
+        1.0,
+        4.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/name",
+    "value": "hideme",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        35.0,
+        31.5,
+        36.0,
+        32.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        27.0,
+        25.5,
+        12.0
+      ],
+      "rotation": 90,
+      "enabled": false,
+      "autoUv": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 17.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/2",
+    "value": -0.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/2",
+    "value": 5.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        39.0,
+        34.5,
+        45.0,
+        41.5
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/2",
+    "value": 19.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/3",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/hair",
+    "value": "entity/humanoid/seraphskinparts/hair/lightgray",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/dreadlocks.json"
+  }
+]

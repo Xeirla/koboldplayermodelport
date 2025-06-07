@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/elements/3/to/1",
+    "value": 7.01,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/lowerbody/pants7.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/to/1",
+    "value": 7.01,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/lowerbody/pants7.json"
+  }
+]

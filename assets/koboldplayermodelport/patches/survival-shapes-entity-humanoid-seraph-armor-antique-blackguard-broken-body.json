@@ -1,0 +1,48 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/blackguard-broken/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/0/faces/down",
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/blackguard-broken/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/from/1",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/blackguard-broken/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/rotationOrigin/1",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/blackguard-broken/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/to/1",
+    "value": 8.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/blackguard-broken/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/5/from/1",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/blackguard-broken/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/5/rotationOrigin/1",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/blackguard-broken/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/5/to/1",
+    "value": 8.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/blackguard-broken/body.json"
+  }
+]

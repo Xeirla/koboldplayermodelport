@@ -1,0 +1,29 @@
+[
+  {
+    "op": "replace",
+    "path": "/elements/0/from/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/tieddreads.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/tieddreads.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/tieddreads.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/tieddreads.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/tieddreads.json"
+  }
+]

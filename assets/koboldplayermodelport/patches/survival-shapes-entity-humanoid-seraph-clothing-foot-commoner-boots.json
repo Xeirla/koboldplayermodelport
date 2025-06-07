@@ -1,0 +1,1591 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/renderInEditor",
+    "value": false,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down",
+    "value": {
+      "texture": "#commoner-boots",
+      "uv": [
+        11.0,
+        20.0,
+        14.0,
+        20.5
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/0",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/1",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/2",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/3",
+    "value": 22.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/0",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/0",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/2",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/3",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/3",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/1",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/3",
+    "value": 22.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/1",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/uv/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/down",
+    "value": {
+      "texture": "#commoner-boots",
+      "uv": [
+        10.5,
+        19.5,
+        13.5,
+        20.0
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/0",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/2",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/2",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/3",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/0",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/2",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/2",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/0",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/2",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/from/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/rotationOrigin/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/1",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/down",
+    "value": {
+      "texture": "#commoner-boots",
+      "uv": [
+        4.0,
+        9.5,
+        4.5,
+        12.5
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/rotation",
+    "value": 270,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/1",
+    "value": 9.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/3",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/0",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/2",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/from/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/rotationOrigin/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/1",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/uv/1",
+    "value": 9.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/down",
+    "value": {
+      "texture": "#commoner-boots",
+      "uv": [
+        7.0,
+        7.0,
+        7.5,
+        10.0
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/1",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/3",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/2",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/from/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationOrigin/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationZ",
+    "value": 40.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/to/1",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/uv/1",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/1",
+    "value": 19.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/3",
+    "value": 22.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/1",
+    "value": 21.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/2",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/3",
+    "value": 25.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/0",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/3",
+    "value": 26.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/0",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/1",
+    "value": 21.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/3",
+    "value": 25.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/1",
+    "value": 19.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 22.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/3",
+    "value": 26.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/stepParentName",
+    "value": "PawR",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/1",
+    "value": 4.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/1",
+    "value": 19.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/0/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/0/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/children/0/faces/down",
+    "value": {
+      "texture": "#commoner-boots",
+      "uv": [
+        4.0,
+        19.5,
+        7.0,
+        20.0
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/east/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/east/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/east/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/east/uv/3",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/north/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/north/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/north/uv/3",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/south/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/south/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/south/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/south/uv/3",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/up/uv/1",
+    "value": 19.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/up/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/up/uv/3",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/west/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/west/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/west/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/west/uv/3",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/from/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/rotationOrigin/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/to/1",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/uv/1",
+    "value": 19.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/1/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/1/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/children/1/faces/down",
+    "value": {
+      "texture": "#commoner-boots",
+      "uv": [
+        7.5,
+        9.5,
+        10.5,
+        10.0
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/east/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/east/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/north/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/north/uv/1",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/north/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/north/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/south/uv/2",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/up/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/up/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/west/uv/0",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/west/uv/2",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/from/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/rotationOrigin/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/to/1",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/2/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/children/2/faces/down",
+    "value": {
+      "texture": "#commoner-boots",
+      "uv": [
+        11.5,
+        19.5,
+        12.0,
+        22.5
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/2/faces/east/windMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/east/uv/0",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/east/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/east/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/east/uv/3",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/north/uv/0",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/north/uv/1",
+    "value": 22.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/north/uv/2",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/north/uv/3",
+    "value": 24.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/south/uv/0",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/south/uv/1",
+    "value": 22.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/south/uv/2",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/south/uv/3",
+    "value": 24.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/up/uv/0",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/up/uv/1",
+    "value": 19.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/up/uv/2",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/up/uv/3",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/west/uv/0",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/west/uv/1",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/west/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/west/uv/3",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/from/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/rotationOrigin/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/to/1",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/uv/0",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/uv/1",
+    "value": 19.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/3/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/children/3/faces/down",
+    "value": {
+      "texture": "#commoner-boots",
+      "uv": [
+        4.0,
+        9.5,
+        4.5,
+        12.5
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/east/uv/0",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/east/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/east/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/east/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/north/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/north/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/north/uv/2",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/north/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/south/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/south/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/south/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/south/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/up/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/faces/up/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/from/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/rotationOrigin/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/rotationZ",
+    "value": 40.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/to/1",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/3/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/down/uv/0",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/down/uv/1",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/down/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/down/uv/3",
+    "value": 23.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/east/uv/1",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/east/uv/3",
+    "value": 25.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/0",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/1",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/3",
+    "value": 25.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/1",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/3",
+    "value": 26.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/0",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/1",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/2",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/3",
+    "value": 23.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/west/uv/0",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/west/uv/1",
+    "value": 21.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/west/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/west/uv/3",
+    "value": 26.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/stepParentName",
+    "value": "PawL",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/1",
+    "value": 4.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/uv/0",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/uv/1",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/commoner-boots.json"
+  }
+]

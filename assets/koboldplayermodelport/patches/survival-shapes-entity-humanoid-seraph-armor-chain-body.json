@@ -1,0 +1,518 @@
+[
+  {
+    "op": "add",
+    "path": "/textureSizes",
+    "value": {},
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/editor/singleTexture",
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  },
+  {
+    "op": "add",
+    "path": "/editor/backDropShape",
+    "value": "entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  },
+  {
+    "op": "add",
+    "path": "/editor/entityTextureMode",
+    "value": true,
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/6",
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/6",
+    "value": {
+      "name": "ArmorCoatR",
+      "stepParentName": "UpperFootR",
+      "from": [
+        -0.7,
+        0.2,
+        -0.45
+      ],
+      "to": [
+        4.9,
+        7.2,
+        3.05
+      ],
+      "autoUnwrap": false,
+      "uv": [
+        18.0,
+        24.5
+      ],
+      "rotationOrigin": [
+        -0.7,
+        0.2,
+        -0.6
+      ],
+      "faces": {
+        "north": {
+          "texture": "#material",
+          "uv": [
+            18.0,
+            28.0,
+            23.5,
+            35.0
+          ]
+        },
+        "east": {
+          "texture": "#material",
+          "uv": [
+            23.5,
+            28.0,
+            27.0,
+            35.0
+          ]
+        },
+        "south": {
+          "texture": "#material",
+          "uv": [
+            27.0,
+            28.0,
+            32.5,
+            35.0
+          ]
+        },
+        "west": {
+          "texture": "#material",
+          "uv": [
+            32.5,
+            28.0,
+            36.0,
+            35.0
+          ]
+        },
+        "up": {
+          "texture": "#material",
+          "uv": [
+            18.0,
+            24.5,
+            23.5,
+            28.0
+          ]
+        },
+        "down": {
+          "texture": "#material",
+          "uv": [
+            23.5,
+            24.5,
+            29.0,
+            28.0
+          ],
+          "rotation": 180
+        }
+      },
+      "children": [
+        {
+          "name": "ArmorLegCoverR",
+          "from": [
+            0.5,
+            0.1,
+            0.3
+          ],
+          "to": [
+            5.1,
+            9.1,
+            3.7
+          ],
+          "autoUnwrap": false,
+          "uv": [
+            16.0,
+            36.5
+          ],
+          "rotationOrigin": [
+            0.5,
+            0.1,
+            0.3
+          ],
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                56.5,
+                53.0,
+                61.0,
+                62.0
+              ]
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                60.0,
+                53.0,
+                63.0,
+                62.0
+              ]
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                59.0,
+                53.0,
+                63.5,
+                62.0
+              ]
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                57.0,
+                53.0,
+                60.0,
+                62.0
+              ]
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                57.0,
+                53.0,
+                61.5,
+                56.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/7",
+    "value": {
+      "name": "ArmorCoatL",
+      "stepParentName": "UpperFootL",
+      "from": [
+        -0.7,
+        0.2,
+        0.25
+      ],
+      "to": [
+        4.9,
+        7.2,
+        3.75
+      ],
+      "uv": [
+        0.0,
+        24.5
+      ],
+      "rotationOrigin": [
+        -0.7,
+        0.2,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "texture": "#material",
+          "uv": [
+            0.0,
+            28.0,
+            5.5,
+            35.0
+          ]
+        },
+        "east": {
+          "texture": "#material",
+          "uv": [
+            5.5,
+            28.0,
+            9.0,
+            35.0
+          ]
+        },
+        "south": {
+          "texture": "#material",
+          "uv": [
+            9.0,
+            28.0,
+            14.5,
+            35.0
+          ]
+        },
+        "west": {
+          "texture": "#material",
+          "uv": [
+            14.5,
+            28.0,
+            18.0,
+            35.0
+          ]
+        },
+        "up": {
+          "texture": "#material",
+          "uv": [
+            0.0,
+            24.5,
+            5.5,
+            28.0
+          ]
+        },
+        "down": {
+          "texture": "#material",
+          "uv": [
+            5.5,
+            24.5,
+            11.0,
+            28.0
+          ]
+        }
+      },
+      "children": [
+        {
+          "name": "ArmorLegCoverL",
+          "from": [
+            0.5,
+            0.1,
+            -0.3
+          ],
+          "to": [
+            5.1,
+            9.1,
+            3.1
+          ],
+          "autoUnwrap": false,
+          "uv": [
+            0.0,
+            0.0
+          ],
+          "rotationOrigin": [
+            0.5,
+            0.1,
+            -0.3
+          ],
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                59.5,
+                53.0,
+                64.0,
+                62.0
+              ]
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                57.5,
+                53.0,
+                60.5,
+                62.0
+              ]
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                56.5,
+                53.0,
+                61.0,
+                62.0
+              ]
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                57.5,
+                53.0,
+                60.5,
+                62.0
+              ]
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                59.5,
+                53.0,
+                64.0,
+                56.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/8",
+    "value": {
+      "name": "ArmorUpperTorso2",
+      "stepParentName": "Tail1",
+      "from": [
+        0.5,
+        1.0,
+        -0.5
+      ],
+      "to": [
+        7.5,
+        4.5,
+        4.5
+      ],
+      "autoUnwrap": false,
+      "uv": [
+        0.0,
+        0.0
+      ],
+      "rotationOrigin": [
+        0.5,
+        1.0,
+        -0.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#material",
+          "uv": [
+            9.0,
+            57.0,
+            16.0,
+            60.5
+          ]
+        },
+        "east": {
+          "texture": "#material",
+          "uv": [
+            15.0,
+            57.0,
+            20.0,
+            60.5
+          ]
+        },
+        "south": {
+          "texture": "#material",
+          "uv": [
+            25.0,
+            57.0,
+            32.0,
+            60.5
+          ]
+        },
+        "west": {
+          "texture": "#material",
+          "uv": [
+            2.0,
+            57.0,
+            7.0,
+            60.5
+          ]
+        },
+        "up": {
+          "texture": "#material",
+          "uv": [
+            43.0,
+            20.0,
+            47.5,
+            27.0
+          ],
+          "rotation": 270,
+          "autoUv": false
+        },
+        "down": {
+          "texture": "#material",
+          "uv": [
+            10.0,
+            41.0,
+            17.0,
+            46.0
+          ]
+        }
+      }
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/9",
+    "value": {
+      "name": "ArmorUpperTorso3",
+      "stepParentName": "Tail2",
+      "from": [
+        1.5,
+        1.0,
+        -0.5
+      ],
+      "to": [
+        6.5,
+        3.5,
+        3.5
+      ],
+      "autoUnwrap": false,
+      "uv": [
+        0.0,
+        0.0
+      ],
+      "rotationOrigin": [
+        1.5,
+        1.0,
+        -0.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#material",
+          "uv": [
+            5.5,
+            58.0,
+            10.5,
+            60.5
+          ]
+        },
+        "east": {
+          "texture": "#material",
+          "uv": [
+            14.0,
+            58.0,
+            18.0,
+            60.5
+          ]
+        },
+        "south": {
+          "texture": "#material",
+          "uv": [
+            20.5,
+            58.0,
+            25.5,
+            60.5
+          ]
+        },
+        "west": {
+          "texture": "#material",
+          "uv": [
+            0.5,
+            58.0,
+            4.5,
+            60.5
+          ]
+        },
+        "up": {
+          "texture": "#material",
+          "uv": [
+            43.0,
+            20.0,
+            47.5,
+            27.0
+          ],
+          "rotation": 270,
+          "autoUv": false
+        },
+        "down": {
+          "texture": "#material",
+          "uv": [
+            10.0,
+            41.0,
+            15.0,
+            45.0
+          ]
+        }
+      }
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/chain/body.json"
+  }
+]

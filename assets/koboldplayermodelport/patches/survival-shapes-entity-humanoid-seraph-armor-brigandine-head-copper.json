@@ -1,0 +1,78 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/2",
+    "value": 41.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/0",
+    "value": 46.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/2",
+    "value": 41.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/uv/0",
+    "value": 31.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/0",
+    "value": 54.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 48.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraph/armor/brigandine/head-copper.json"
+  }
+]

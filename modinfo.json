@@ -1,0 +1,21 @@
+{
+  "Type": "content",
+  "TextureSize": 32,
+  "Name": "Kobold Player Model 1.20",
+  "Version": "1.2.15-rur",
+  "NetworkVersion": null,
+  "Description": "Kobolds but in 1.20.x",
+  "Website": "",
+  "CoreMod": false,
+  "ModID": "koboldplayermodelport",
+  "Authors": [
+    "Soi",
+	"Caliber (1.20 port)",
+	"Xeirla (1.20 cleanup, 'Rur')",
+  ],
+  "Contributors": ["Soi","Caliber","Xeirla",],
+  "Side": "Client",
+  "RequiredOnClient": true,
+  "RequiredOnServer": false,
+  "Dependencies": {}
+}

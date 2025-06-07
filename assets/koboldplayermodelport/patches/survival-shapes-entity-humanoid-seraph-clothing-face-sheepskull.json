@@ -1,0 +1,164 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/children/0/rotationZ",
+    "value": 22.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/0/faces/down/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/0/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/0/faces/south/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/0/faces/up/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/0/to/0",
+    "value": 7.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/children/1/rotationZ",
+    "value": 22.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/1/faces/down/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/1/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/1/faces/south/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/1/faces/up/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/1/to/0",
+    "value": 7.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/2/from/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/2/rotationOrigin/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/children/2/to/0",
+    "value": 7.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/east/uv/3",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/north/uv/3",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/south/uv/3",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/west/uv/3",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/from/1",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/rotationOrigin/1",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/to/1",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/1",
+    "value": 0.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/1",
+    "value": 4.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationZ",
+    "value": -45.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/1",
+    "value": 4.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/sheepskull.json"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/2",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/stepParentName",
+    "value": "PawR",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/down/uv/2",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/north/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/south/uv/2",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/faces/up/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/down/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/north/uv/2",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/up/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/rotationOrigin/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/stepParentName",
+    "value": "PawL",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/miner.json"
+  }
+]

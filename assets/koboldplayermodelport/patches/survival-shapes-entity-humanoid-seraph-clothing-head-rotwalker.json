@@ -1,0 +1,187 @@
+[
+  {
+    "op": "remove",
+    "path": "/elements/0/renderPass",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/0",
+    "value": 18.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/1",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/2",
+    "value": 23.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/1",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/0",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/1",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 18.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/1",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/1",
+    "value": -2.93,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/2",
+    "value": -0.25,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/name",
+    "value": "hood",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/1",
+    "value": 1.17,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/1",
+    "value": 5.47,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/2",
+    "value": 5.15,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textureHeight",
+    "value": 20,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textureSizes/surgeon/1",
+    "value": 20,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/rotwalker.json"
+  }
+]

@@ -1,0 +1,708 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/0/children/0/children/0/children/0/renderPass",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        1.0,
+        0.0,
+        3.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        1.0,
+        0.5,
+        1.5,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/children/0/children/0/faces/south",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        1.5,
+        0.5,
+        3.5,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/children/0/children/0/faces/up",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/children/0/children/0/faces/west",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        2.5,
+        0.5,
+        3.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        0.5,
+        0.0,
+        1.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        7.5,
+        12.0,
+        8.0,
+        12.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        7.0,
+        12.0,
+        7.5,
+        12.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        7.0,
+        14.0,
+        14.0,
+        21.5
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/0",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/1",
+    "value": 9.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/2",
+    "value": 21.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/3",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/2",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/uv/2",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/to/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/1/renderPass",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        1.0,
+        0.0,
+        2.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/east",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/north",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/south",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        2.0,
+        1.0,
+        3.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/west",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        3.0,
+        1.0,
+        4.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/from/0",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/rotationOrigin/0",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/to/0",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/2/renderPass",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        2.0,
+        0.0,
+        4.0,
+        11.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/east",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        2.0,
+        9.0,
+        13.0,
+        9.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/north",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        0.0,
+        9.0,
+        2.0,
+        9.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/south",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        11.0,
+        9.0,
+        13.0,
+        9.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/west",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        13.0,
+        9.0,
+        24.0,
+        9.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/3/renderPass",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/3/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        11.0,
+        0.0,
+        22.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/3/faces/east",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        11.0,
+        2.0,
+        13.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/3/faces/north",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        0.0,
+        2.0,
+        11.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/3/faces/south",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        13.0,
+        2.0,
+        24.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/3/faces/west",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        24.0,
+        2.0,
+        26.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/up/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/to/0",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/4/renderPass",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/4/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        12.0,
+        0.0,
+        24.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/4/faces/east",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        12.0,
+        2.0,
+        14.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/4/faces/north",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        0.0,
+        2.0,
+        12.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/4/faces/south",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        14.0,
+        2.0,
+        26.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/4/faces/west",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        26.0,
+        2.0,
+        28.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/4/faces/up/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/4/to/0",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        8.0,
+        0.0,
+        16.0,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        8.0,
+        8.0,
+        16.0,
+        8.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/north",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        0.0,
+        8.0,
+        8.0,
+        8.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/south",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        16.0,
+        8.0,
+        24.0,
+        8.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        24.0,
+        8.0,
+        32.0,
+        8.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 7.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#straw-hat",
+      "uv": [
+        6.0,
+        0.0,
+        12.5,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 20.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/name",
+    "value": "Straw-Head",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-hat.json"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "op": "add",
+    "path": "/textureSizes",
+    "value": {},
+    "file": "game:shapes/entity/humanoid/seraph/armor/padded/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/editor/singleTexture",
+    "file": "game:shapes/entity/humanoid/seraph/armor/padded/body.json"
+  },
+  {
+    "op": "add",
+    "path": "/editor/entityTextureMode",
+    "value": true,
+    "file": "game:shapes/entity/humanoid/seraph/armor/padded/body.json"
+  }
+]

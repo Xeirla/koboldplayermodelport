@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/elements/0/name",
+    "value": "hideme",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/unkempt.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/unkempt.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/unkempt.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/unkempt.json"
+  }
+]

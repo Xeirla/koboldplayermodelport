@@ -1,0 +1,7 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/arm/tailor-needlepuff.json"
+  }
+]

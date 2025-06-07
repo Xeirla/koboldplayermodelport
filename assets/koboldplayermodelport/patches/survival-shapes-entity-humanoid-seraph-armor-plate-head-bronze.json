@@ -1,0 +1,169 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/up",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/west",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        3.0,
+        1.0,
+        4.0,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/east",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        42.5,
+        29.5,
+        43.0,
+        31.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        46.5,
+        27.0,
+        54.0,
+        27.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        54.5,
+        27.5,
+        55.0,
+        28.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/3",
+    "value": 33.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/0",
+    "value": 45.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/2",
+    "value": 51.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/0",
+    "value": 26.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 45.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/0",
+    "value": 26.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/down",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        15.5,
+        7.0,
+        19.0,
+        10.5
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/up",
+    "value": {
+      "texture": "#material",
+      "uv": [
+        15.5,
+        5.5,
+        19.0,
+        9.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-bronze.json"
+  }
+]

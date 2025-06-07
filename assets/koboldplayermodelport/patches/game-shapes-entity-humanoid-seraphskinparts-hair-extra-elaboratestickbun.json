@@ -1,0 +1,25 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/elaboratestickbun.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/from/0",
+    "value": 5.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/elaboratestickbun.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 7.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/elaboratestickbun.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/elaboratestickbun.json"
+  }
+]

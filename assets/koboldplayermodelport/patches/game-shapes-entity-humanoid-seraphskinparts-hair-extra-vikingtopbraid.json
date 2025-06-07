@@ -1,0 +1,94 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/3",
+    "value": 40.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/3",
+    "value": 40.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/3",
+    "value": 40.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/to/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/from/0",
+    "value": 5.8291,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/rotationOrigin/0",
+    "value": 5.8291,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/to/0",
+    "value": 7.3291,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/from/0",
+    "value": 6.15,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/rotationOrigin/0",
+    "value": 7.65,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/to/0",
+    "value": 7.65,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/vikingtopbraid.json"
+  }
+]

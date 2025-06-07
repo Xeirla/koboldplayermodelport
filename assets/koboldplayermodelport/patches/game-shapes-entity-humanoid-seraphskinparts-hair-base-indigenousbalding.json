@@ -1,0 +1,110 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        26.0,
+        20.0,
+        28.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        11.0,
+        6.5,
+        16.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 25.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        26.0,
+        20.0,
+        28.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        1.0,
+        0.0,
+        7.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/east/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/east/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/2",
+    "value": 25.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 6.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/indigenousbalding.json"
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        9.5,
+        6.0,
+        10.0,
+        6.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        3.0,
+        11.5,
+        3.5,
+        12.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/1/faces/down",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        12.5,
+        11.5,
+        13.0,
+        12.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/1/faces/up",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        12.0,
+        12.5,
+        12.5,
+        13.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/2/faces/down",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        8.5,
+        3.5,
+        9.0,
+        4.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/2/faces/up",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        11.5,
+        5.5,
+        12.0,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/3/faces/down",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        12.5,
+        9.0,
+        13.0,
+        9.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/3/faces/up",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        6.5,
+        5.0,
+        7.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/4/faces/down",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        7.5,
+        10.0,
+        8.0,
+        10.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/4/faces/up",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        13.0,
+        4.5,
+        13.5,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/5/faces/down",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        14.5,
+        8.0,
+        15.0,
+        8.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/5/faces/up",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        3.0,
+        13.0,
+        3.5,
+        13.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/6/faces/down",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        10.0,
+        10.0,
+        10.5,
+        10.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/6/faces/up",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        6.5,
+        10.0,
+        7.0,
+        10.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/7/faces/down",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        15.0,
+        10.0,
+        15.5,
+        10.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/7/faces/up",
+    "value": {
+      "texture": "#linen",
+      "uv": [
+        9.5,
+        1.0,
+        10.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/8/children/0/faces/up",
+    "value": {
+      "texture": "#red",
+      "uv": [
+        8.0,
+        13.5,
+        9.0,
+        14.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/8/children/1/faces/up",
+    "value": {
+      "texture": "#red",
+      "uv": [
+        0.0,
+        8.0,
+        1.0,
+        8.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/8/children/1/to/2",
+    "value": 5.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/8/faces/down",
+    "value": {
+      "texture": "#red",
+      "uv": [
+        9.5,
+        7.5,
+        10.5,
+        12.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/children/0/faces/down",
+    "value": {
+      "texture": "#gold",
+      "uv": [
+        12.5,
+        2.0,
+        13.0,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/children/1/faces/down",
+    "value": {
+      "texture": "#gold",
+      "uv": [
+        2.0,
+        1.5,
+        2.5,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/4/faces/north",
+    "value": {
+      "texture": "#malachite",
+      "uv": [
+        2.0,
+        1.5,
+        2.5,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/5/faces/south",
+    "value": {
+      "texture": "#quartz",
+      "uv": [
+        7.0,
+        9.5,
+        7.5,
+        10.0
+      ],
+      "enabled": false,
+      "windMode": [
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/6/faces/east",
+    "value": {
+      "texture": "#gold",
+      "uv": [
+        1.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/up",
+    "value": {
+      "texture": "#black",
+      "uv": [
+        8.5,
+        10.5,
+        12.5,
+        14.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/0",
+    "value": -2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        1.0,
+        15.0,
+        1.5,
+        15.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/east",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        2.5,
+        2.0,
+        3.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/north",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        7.5,
+        8.5,
+        8.0,
+        9.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/south",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        1.0,
+        1.5,
+        1.5,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/up",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        7.0,
+        8.5,
+        7.5,
+        9.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/west",
+    "value": {
+      "texture": "#null",
+      "uv": [
+        7.5,
+        7.5,
+        8.0,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/name",
+    "value": "origin",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/mianguan.json"
+  }
+]

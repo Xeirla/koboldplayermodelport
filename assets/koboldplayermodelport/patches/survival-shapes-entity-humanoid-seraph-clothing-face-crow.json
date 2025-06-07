@@ -1,0 +1,899 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children",
+    "value": [
+      {
+        "name": "L string",
+        "from": [
+          3.0,
+          1.5,
+          -1.5
+        ],
+        "to": [
+          6.5,
+          2.0,
+          -1.0
+        ],
+        "rotationOrigin": [
+          3.0,
+          2.0,
+          -1.5
+        ],
+        "rotationY": 21.0,
+        "rotationZ": -20.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              3.0,
+              15.5,
+              6.5,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              13.5,
+              15.5,
+              14.0,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              15.5,
+              10.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              15.5,
+              12.0,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.0,
+              15.5,
+              8.5,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "L side 1",
+        "from": [
+          0.0,
+          1.0,
+          -0.3
+        ],
+        "to": [
+          3.5,
+          2.5,
+          0.2
+        ],
+        "rotationOrigin": [
+          0.0,
+          1.5,
+          -0.3
+        ],
+        "rotationY": 21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              3.0,
+              13.5,
+              6.5,
+              15.0
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              13.5,
+              14.0,
+              14.0,
+              15.5
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              13.5,
+              10.0,
+              15.0
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              14.0,
+              9.0,
+              15.5
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              15.5,
+              12.0,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.0,
+              15.5,
+              8.5,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "L side 17",
+        "from": [
+          0.0,
+          0.0,
+          -0.3
+        ],
+        "to": [
+          2.5,
+          1.0,
+          0.2
+        ],
+        "rotationOrigin": [
+          0.0,
+          0.5,
+          -0.3
+        ],
+        "rotationY": 21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              3.0,
+              13.5,
+              5.5,
+              14.5
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              13.5,
+              14.0,
+              14.0,
+              15.0
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              13.5,
+              9.0,
+              14.5
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              14.0,
+              9.0,
+              15.0
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              15.5,
+              11.0,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.0,
+              15.5,
+              7.5,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "L side 20",
+        "from": [
+          0.0,
+          -0.5,
+          -0.3
+        ],
+        "to": [
+          1.5,
+          0.0,
+          0.2
+        ],
+        "rotationOrigin": [
+          0.0,
+          0.0,
+          -0.3
+        ],
+        "rotationY": 21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              3.0,
+              13.5,
+              4.5,
+              14.0
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              13.5,
+              14.0,
+              14.0,
+              14.5
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              13.5,
+              8.0,
+              14.0
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              14.0,
+              9.0,
+              14.5
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              15.5,
+              10.0,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.0,
+              15.5,
+              6.5,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "L string32",
+        "from": [
+          2.1,
+          0.0,
+          -1.2
+        ],
+        "to": [
+          6.6,
+          0.5,
+          -0.7
+        ],
+        "rotationOrigin": [
+          2.1,
+          0.5,
+          -1.2
+        ],
+        "rotationY": 21.0,
+        "rotationZ": -30.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              3.0,
+              15.5,
+              7.5,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              13.5,
+              15.5,
+              14.0,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              15.5,
+              11.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              8.5,
+              15.5,
+              13.0,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.0,
+              15.5,
+              9.5,
+              16.0
+            ]
+          }
+        }
+      }
+    ],
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/2",
+    "value": -2.3,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/2",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/2",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children",
+    "value": [
+      {
+        "name": "R string",
+        "from": [
+          3.0,
+          1.5,
+          3.5
+        ],
+        "to": [
+          6.5,
+          2.0,
+          4.0
+        ],
+        "rotationOrigin": [
+          3.0,
+          2.0,
+          3.9
+        ],
+        "rotationY": -21.0,
+        "rotationZ": -20.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              4.5,
+              15.5,
+              8.0,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              11.0,
+              15.5,
+              11.5,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              15.5,
+              10.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              1.0,
+              15.5,
+              1.5,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              6.0,
+              15.5,
+              9.5,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "R side 1",
+        "from": [
+          0.1,
+          1.0,
+          2.3
+        ],
+        "to": [
+          3.6,
+          2.5,
+          2.8
+        ],
+        "rotationOrigin": [
+          0.1,
+          1.5,
+          2.7
+        ],
+        "rotationY": -21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              4.5,
+              13.0,
+              8.0,
+              14.5
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              11.0,
+              13.5,
+              11.5,
+              15.0
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              13.0,
+              10.0,
+              14.5
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              1.5,
+              13.0,
+              2.0,
+              14.5
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              6.0,
+              15.5,
+              9.5,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "R side 18",
+        "from": [
+          0.1,
+          0.0,
+          2.3
+        ],
+        "to": [
+          2.6,
+          1.0,
+          2.8
+        ],
+        "rotationOrigin": [
+          0.1,
+          0.5,
+          2.7
+        ],
+        "rotationY": -21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              4.5,
+              13.0,
+              7.0,
+              14.0
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              11.0,
+              13.5,
+              11.5,
+              14.5
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              13.0,
+              9.0,
+              14.0
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              1.5,
+              13.0,
+              2.0,
+              14.0
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              6.0,
+              15.5,
+              8.5,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.5,
+              15.5,
+              8.0,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "R side 19",
+        "from": [
+          0.1,
+          -0.5,
+          2.3
+        ],
+        "to": [
+          1.6,
+          0.0,
+          2.8
+        ],
+        "rotationOrigin": [
+          0.1,
+          0.0,
+          2.7
+        ],
+        "rotationY": -21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              4.5,
+              13.0,
+              6.0,
+              13.5
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              11.0,
+              13.5,
+              11.5,
+              14.0
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              13.0,
+              8.0,
+              13.5
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              1.5,
+              13.0,
+              2.0,
+              13.5
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              6.0,
+              15.5,
+              7.5,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.5,
+              15.5,
+              7.0,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "R string33",
+        "from": [
+          2.1,
+          0.0,
+          3.2
+        ],
+        "to": [
+          6.6,
+          0.5,
+          3.7
+        ],
+        "rotationOrigin": [
+          2.1,
+          0.5,
+          3.6
+        ],
+        "rotationY": -21.0,
+        "rotationZ": -30.0,
+        "faces": {
+          "north": {
+            "texture": "#crow",
+            "uv": [
+              4.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#crow",
+            "uv": [
+              11.0,
+              15.5,
+              11.5,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#crow",
+            "uv": [
+              6.5,
+              15.5,
+              11.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#crow",
+            "uv": [
+              1.0,
+              15.5,
+              1.5,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#crow",
+            "uv": [
+              6.0,
+              15.5,
+              10.5,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#crow",
+            "uv": [
+              5.5,
+              15.5,
+              10.0,
+              16.0
+            ]
+          }
+        }
+      }
+    ],
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/from/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/to/0",
+    "value": 6.8,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/renderInEditor",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/7/children/0/children/0/children",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/8/from/0",
+    "value": 5.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/8/to/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/0",
+    "value": -3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/1",
+    "value": 1.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/2",
+    "value": 2.3,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/0",
+    "value": -3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/1",
+    "value": 1.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/2",
+    "value": 2.3,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationZ",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": -3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/1",
+    "value": 1.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/2",
+    "value": 2.3,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/crow.json"
+  }
+]

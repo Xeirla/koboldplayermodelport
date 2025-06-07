@@ -1,0 +1,256 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/1",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/1",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/2",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/from/1",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/rotationOrigin/1",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/1",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/stepParentName",
+    "value": "PawR",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/1",
+    "value": 3.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/from/1",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/rotationOrigin/1",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/to/1",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/north/uv/2",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/south/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/from/1",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/rotationOrigin/1",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/to/1",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/down/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/east/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/3",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/west/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/stepParentName",
+    "value": "PawL",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/1",
+    "value": 3.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/great-steppe-boots.json"
+  }
+]

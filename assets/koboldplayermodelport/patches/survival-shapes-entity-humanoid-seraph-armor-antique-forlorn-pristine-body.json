@@ -1,0 +1,49 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/forlorn-pristine/body.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/3/children/0/faces/up",
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/forlorn-pristine/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/6/from/1",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/forlorn-pristine/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/6/rotationOrigin/1",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/forlorn-pristine/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/6/to/1",
+    "value": 8.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/forlorn-pristine/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/7/from/1",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/forlorn-pristine/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/7/rotationOrigin/1",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/forlorn-pristine/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/7/to/1",
+    "value": 8.2,
+    "file": "game:shapes/entity/humanoid/seraph/armor/antique/forlorn-pristine/body.json"
+  }
+]

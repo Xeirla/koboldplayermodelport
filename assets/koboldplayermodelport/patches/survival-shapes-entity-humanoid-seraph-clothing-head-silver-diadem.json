@@ -1,0 +1,697 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/2/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/2/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/2/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/2/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/2/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/2/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/4/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/5/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/6/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/7/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/8/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/9/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/10/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/11/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/11/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/11/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/11/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/11/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/11/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/east/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/north/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/south/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/up/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/west/reflectiveMode",
+    "value": 4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/name",
+    "value": "origin",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/silver-diadem.json"
+  }
+]

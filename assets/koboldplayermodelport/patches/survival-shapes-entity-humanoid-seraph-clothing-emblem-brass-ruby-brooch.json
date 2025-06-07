@@ -1,0 +1,3602 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/editor/entityTextureMode",
+    "value": false,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/0/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/0/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/0",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/uv/0",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/uv/1",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/uv/3",
+    "value": 16.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/1/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/1/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/up",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/down/uv/0",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/down/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/down/uv/2",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/down/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/east/uv/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/east/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/east/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/east/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/north/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/north/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/north/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/north/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/south/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/south/uv/1",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/south/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/south/uv/3",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/west/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/west/uv/1",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/west/uv/2",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/west/uv/3",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/2/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/2/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/2/faces/south",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/2/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/down/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/down/uv/1",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/down/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/down/uv/3",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/east/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/east/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/east/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/east/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/north/uv/0",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/north/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/north/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/north/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/2/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/up/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/up/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/up/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/up/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/west/uv/0",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/west/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/west/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/2/faces/west/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/3/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/3/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/3/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/down/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/down/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/down/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/down/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/east/uv/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/east/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/east/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/north/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/north/uv/1",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/north/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/north/uv/3",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/south/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/south/uv/1",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/south/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/south/uv/3",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/3/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/up/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/up/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/up/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/up/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/west/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/west/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/west/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/3/faces/west/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/0",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/0",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/1",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/2",
+    "value": 16.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/0",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/0/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/0/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/down",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/uv/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/0",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/1",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/1",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/uv/1",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/1/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/1/unwrapRotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/1/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/up",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/down/rotation",
+    "value": 90,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/down/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/down/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/down/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/1/faces/east/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/east/uv/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/east/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/east/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/1/faces/north/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/north/uv/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/north/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/north/uv/2",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/north/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/1/faces/south/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/south/uv/0",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/south/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/south/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/south/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/1/faces/west/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/west/uv/0",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/west/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/west/uv/2",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/west/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/2/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/2/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/2/faces/south",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/2/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/down/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/down/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/down/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/down/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/east/uv/0",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/east/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/east/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/east/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/north/uv/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/north/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/north/uv/2",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/north/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/2/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/up/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/up/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/up/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/up/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/west/uv/0",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/west/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/west/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/faces/west/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/from/1",
+    "value": -0.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/rotationOrigin/1",
+    "value": -0.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/2/to/1",
+    "value": 0.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/3/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/3/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/3/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/down/uv/0",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/down/uv/1",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/down/uv/2",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/down/uv/3",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/east/uv/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/east/uv/1",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/east/uv/2",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/east/uv/3",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/north/uv/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/north/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/north/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/north/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/south/uv/0",
+    "value": 9.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/south/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/south/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/south/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/children/3/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/up/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/up/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/up/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/up/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/west/uv/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/west/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/west/uv/2",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/faces/west/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/from/1",
+    "value": -0.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/rotationOrigin/1",
+    "value": -0.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/3/to/1",
+    "value": 0.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/1",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/0",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/1/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/0",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/0/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/0/unwrapRotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/0/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/down",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/0/faces/east/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/0/faces/north/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/uv/2",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/0/faces/south/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/uv/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/rotation",
+    "value": 90,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/uv/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/0/faces/west/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/uv/0",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/uv/2",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/1/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/1/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/up",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/down/uv/0",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/down/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/down/uv/2",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/down/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/east/uv/0",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/east/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/east/uv/2",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/east/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/north/uv/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/north/uv/1",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/north/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/south/uv/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/south/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/south/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/south/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/west/uv/0",
+    "value": 11.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/west/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/west/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/west/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/2/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/2/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/south",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/2/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/down/uv/0",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/down/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/down/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/down/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/east/uv/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/east/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/east/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/east/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/north/uv/0",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/north/uv/1",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/north/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/north/uv/3",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/children/2/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/up/uv/0",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/up/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/up/uv/2",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/up/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/west/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/west/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/west/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/west/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/0",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/2",
+    "value": 16.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/0",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/2/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/0",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/2",
+    "value": 16.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/0/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/0/unwrapRotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/0/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/down",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/0/faces/east/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/uv/0",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/uv/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/0/faces/north/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/0/faces/south/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/uv/0",
+    "value": 9.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/uv/1",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/rotation",
+    "value": 90,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/uv/2",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/0/faces/west/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/west/uv/0",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/west/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/west/uv/2",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/west/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/1/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/1/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/up",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/down/uv/0",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/down/uv/1",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/down/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/down/uv/3",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/east/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/east/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/east/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/north/uv/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/north/uv/1",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/north/uv/3",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/south/uv/0",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/south/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/south/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/south/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/west/uv/0",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/west/uv/1",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/west/uv/2",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/1/faces/west/uv/3",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/2/unwrapMode",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/2/uv",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/2/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/down/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/down/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/down/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/down/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/east/uv/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/east/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/east/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/east/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/north/uv/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/north/uv/1",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/north/uv/3",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/south/uv/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/south/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/south/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/south/uv/3",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/children/2/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/up/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/up/uv/1",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/up/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/up/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/west/uv/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/west/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/west/uv/2",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/2/faces/west/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/faces/down/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/uv/0",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/0",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/1",
+    "value": 12.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/2",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/3",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/1",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/3/faces/up/rotation",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/0",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/1",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/texture",
+    "value": "#pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/0",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/1",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/2",
+    "value": 16.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/3",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/east",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/north",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/south",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/up",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/west",
+    "value": {
+      "texture": "#pendants2",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/emblems1",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/fire-red",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/pendants2",
+    "value": "entity/humanoid/seraphclothes/neck/pendants2",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/emblem/brass-ruby-brooch.json"
+  }
+]

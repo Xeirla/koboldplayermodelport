@@ -1,0 +1,180 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "add",
+    "path": "/editor/collapsedPaths",
+    "value": "Root/hair/ponytail1,Root/bandN/toothR1,Root/hideme,Root/bandN/toothL1",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/2",
+    "value": 39.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/2",
+    "value": 39.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/2",
+    "value": 34.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 37.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/0",
+    "value": 0.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/from/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/3/from/0",
+    "value": 5.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/3/rotationOrigin/0",
+    "value": 4.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/3/to/0",
+    "value": 8.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/4/from/0",
+    "value": 4.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/4/rotationOrigin/0",
+    "value": 4.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/4/to/0",
+    "value": 8.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/7/faces/up/uv/2",
+    "value": 26.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/7/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/8/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/10/from/0",
+    "value": 1.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/10/rotationOrigin/0",
+    "value": 3.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/10/to/0",
+    "value": 3.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/11/from/0",
+    "value": 5.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/11/rotationOrigin/0",
+    "value": 4.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/11/to/0",
+    "value": 8.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/12/from/0",
+    "value": 4.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/12/rotationOrigin/0",
+    "value": 4.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/12/to/0",
+    "value": 8.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/name",
+    "value": "hideme",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/afro.json"
+  }
+]

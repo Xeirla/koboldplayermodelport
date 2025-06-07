@@ -1,0 +1,1138 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        3.0,
+        0.0,
+        6.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        3.0,
+        0.5,
+        3.5,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.5,
+        3.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        3.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.5,
+        0.5,
+        7.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/0",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        3.0,
+        0.0,
+        6.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        3.0,
+        0.5,
+        3.5,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        32.0,
+        1.5,
+        35.0,
+        7.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        3.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.5,
+        0.5,
+        7.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/from/0",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        0.0,
+        1.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        5.5,
+        0.5,
+        12.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        5.5,
+        6.5,
+        12.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.5,
+        5.5,
+        12.0,
+        12.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/from/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/rotationOrigin/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/to/0",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.0,
+        0.0,
+        14.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.0,
+        0.5,
+        7.5,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.5,
+        0.5,
+        14.5,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.5,
+        0.5,
+        15.0,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/faces/north/uv/2",
+    "value": 26.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/1/to/0",
+    "value": 6.8,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.0,
+        0.0,
+        14.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.0,
+        0.5,
+        7.5,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        20.0,
+        25.0,
+        27.0,
+        29.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.5,
+        0.5,
+        15.0,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/faces/south/uv/2",
+    "value": 27.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/2/to/0",
+    "value": 6.8,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/3/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.0,
+        0.0,
+        13.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/3/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.0,
+        0.5,
+        7.5,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/3/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.5,
+        0.5,
+        13.5,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/3/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        6.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/3/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.5,
+        0.5,
+        15.0,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/3/faces/north/uv/2",
+    "value": 47.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/3/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/4/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        0.0,
+        1.0,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/4/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        5.0,
+        5.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/4/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        5.0,
+        0.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/4/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        5.5,
+        5.0,
+        6.0,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/4/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/5/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.0,
+        0.0,
+        14.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/5/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        7.0,
+        0.5,
+        7.5,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/5/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        20.0,
+        25.0,
+        27.0,
+        29.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/5/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/5/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.5,
+        0.5,
+        15.0,
+        4.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/5/faces/south/uv/2",
+    "value": 37.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/5/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/6/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        23.0,
+        31.0,
+        30.0,
+        33.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/6/faces/north/uv/2",
+    "value": 36.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/6/faces/south/uv/2",
+    "value": 39.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/6/faces/up/uv/2",
+    "value": 39.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/6/to/0",
+    "value": 6.8,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/7/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        31.5,
+        32.5,
+        38.5,
+        35.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/7/faces/north/uv/2",
+    "value": 37.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/7/faces/south/uv/2",
+    "value": 39.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/7/faces/up/uv/2",
+    "value": 37.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/7/to/0",
+    "value": 6.8,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/8/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        0.0,
+        1.0,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/8/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        5.0,
+        5.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/8/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        5.0,
+        0.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/8/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        5.5,
+        5.0,
+        6.0,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/8/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/9/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        0.0,
+        1.0,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/9/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        5.0,
+        0.5,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/9/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        5.5,
+        5.0,
+        6.0,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/9/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        0.5,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/9/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        34.5,
+        18.5,
+        40.5,
+        22.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/9/from/0",
+    "value": 6.8,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/9/rotationOrigin/0",
+    "value": 6.8,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/9/to/0",
+    "value": 6.8,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        1.0,
+        0.0,
+        2.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        1.0,
+        1.0,
+        2.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        1.0,
+        1.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        2.0,
+        1.0,
+        3.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        3.0,
+        1.0,
+        4.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/name",
+    "value": "hideme",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        27.0,
+        25.5,
+        12.0
+      ],
+      "rotation": 90,
+      "enabled": false,
+      "autoUv": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 17.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/2",
+    "value": -0.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/2",
+    "value": 5.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        39.0,
+        34.5,
+        45.0,
+        41.5
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/2",
+    "value": 19.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/3",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/hair",
+    "value": "entity/humanoid/seraphskinparts/hair/lightgray",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/looselong.json"
+  }
+]

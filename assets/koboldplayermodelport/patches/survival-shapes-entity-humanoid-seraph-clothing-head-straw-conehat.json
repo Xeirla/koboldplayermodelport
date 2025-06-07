@@ -1,0 +1,1441 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up/uv/2",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/to/0",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/to/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        9.0,
+        0.0,
+        18.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        9.0,
+        1.0,
+        10.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        1.0,
+        9.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        10.0,
+        1.0,
+        19.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/children/1/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        19.0,
+        1.0,
+        20.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/faces/up/uv/2",
+    "value": 16.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/1/to/0",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        8.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        8.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        8.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/up/uv/2",
+    "value": 13.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/to/0",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/2",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/to/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        9.0,
+        0.0,
+        18.0,
+        1.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        9.0,
+        1.0,
+        10.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        1.0,
+        9.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        10.0,
+        1.0,
+        19.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/children/1/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        19.0,
+        1.0,
+        20.0,
+        1.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/faces/up/uv/2",
+    "value": 16.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/1/to/0",
+    "value": 8.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        8.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        8.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        8.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/2",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        4.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        2.0,
+        0.0,
+        4.0,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        2.0,
+        5.0,
+        8.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        5.0,
+        2.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        7.0,
+        5.0,
+        9.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        9.0,
+        5.0,
+        15.0,
+        5.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        1.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        1.0,
+        2.0,
+        3.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        2.0,
+        1.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        3.0,
+        2.0,
+        4.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/1/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        4.0,
+        2.0,
+        6.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        1.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        1.0,
+        2.0,
+        3.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        2.0,
+        1.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        3.0,
+        2.0,
+        4.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/children/2/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        4.0,
+        2.0,
+        6.0,
+        2.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/2/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        4.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        4.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        6.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        6.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/0/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        6.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        1.0,
+        0.0,
+        2.0,
+        8.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        1.0,
+        7.0,
+        9.0,
+        7.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        7.0,
+        1.0,
+        7.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        8.0,
+        7.0,
+        9.0,
+        7.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/children/1/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        9.0,
+        7.0,
+        17.0,
+        7.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        7.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/east",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/north",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/south",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        2.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/3/faces/west",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        7.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/from/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationOrigin/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/to/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#straw-conehat",
+      "uv": [
+        0.0,
+        0.0,
+        6.0,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 15.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/name",
+    "value": "Straw-Top",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/head/straw-conehat.json"
+  }
+]

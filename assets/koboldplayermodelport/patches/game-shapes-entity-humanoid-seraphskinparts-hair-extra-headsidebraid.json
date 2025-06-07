@@ -1,0 +1,7 @@
+[
+  {
+    "op": "remove",
+    "path": "/textures/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-extra/headsidebraid.json"
+  }
+]

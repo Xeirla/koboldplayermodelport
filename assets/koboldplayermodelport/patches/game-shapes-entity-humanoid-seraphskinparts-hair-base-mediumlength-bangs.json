@@ -1,0 +1,118 @@
+[
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        27.0,
+        25.5,
+        12.0
+      ],
+      "rotation": 90,
+      "enabled": false,
+      "autoUv": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 6.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/1",
+    "value": 15.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/3",
+    "value": 24.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/2",
+    "value": -0.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/2",
+    "value": 5.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        39.0,
+        34.5,
+        45.0,
+        41.5
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/2",
+    "value": 18.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/3",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 6.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "add",
+    "path": "/textures/hair",
+    "value": "entity/humanoid/seraphskinparts/hair/lightgray",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/birch",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/mediumlength-bangs.json"
+  }
+]

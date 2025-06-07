@@ -1,0 +1,1399 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/rotationZ",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/children/0/children/0/children/0/rotationZ",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down/uv/1",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/down/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/east/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/east/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/east/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/east/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/east/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/north/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/north/uv/0",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/north/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/north/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/north/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/south/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/south/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/south/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/south/uv/2",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/south/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/up/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/west/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/west/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/west/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/west/uv/2",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/faces/west/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/to/0",
+    "value": 0.4,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/uv/0",
+    "value": 27.75,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/children/0/uv/1",
+    "value": 0.125,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/down/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/down/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/down/uv/1",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/down/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/down/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/east/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/0",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/north/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/0",
+    "value": 27.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/2",
+    "value": 27.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/south/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/up/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/uv/2",
+    "value": 30.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/faces/west/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/to/0",
+    "value": 0.4,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/uv/0",
+    "value": 27.125,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children/0/uv/1",
+    "value": 0.125,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/1",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/0",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/1",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/0",
+    "value": 27.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/1",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/2",
+    "value": 27.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/1",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/2",
+    "value": 30.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/0",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/1",
+    "value": 2.4,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/2",
+    "value": 1.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/0",
+    "value": 2.4,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/1",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/2",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationX",
+    "value": -75.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 2.6,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/1",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/2",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/uv/0",
+    "value": 27.125,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/uv/1",
+    "value": -0.125,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/rotationZ",
+    "value": 20.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/down/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/down/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/down/uv/1",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/down/uv/2",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/down/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/east/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/east/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/east/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/east/uv/2",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/east/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/north/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/north/uv/0",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/north/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/north/uv/2",
+    "value": 30.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/north/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/south/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/south/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/south/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/south/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/south/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/up/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/up/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/up/uv/1",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/up/uv/2",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/up/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/west/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/west/uv/0",
+    "value": 30.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/west/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/west/uv/2",
+    "value": 31.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/faces/west/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/to/0",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/uv/0",
+    "value": 28.625,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/children/0/uv/1",
+    "value": 0.375,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/down/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/down/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/down/uv/1",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/down/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/down/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/east/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/2",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/north/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/0",
+    "value": 27.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/2",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/south/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/1",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/up/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/uv/0",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/uv/2",
+    "value": 31.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/faces/west/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/to/0",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/uv/0",
+    "value": 27.625,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children/0/uv/1",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/1",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/2",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/0",
+    "value": 27.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/2",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/0",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/1",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/2",
+    "value": 31.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/3",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/from/0",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/from/1",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/from/2",
+    "value": -2.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/rotationOrigin/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/rotationOrigin/1",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/rotationOrigin/2",
+    "value": -1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/rotationX",
+    "value": 75.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/1",
+    "value": 2.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/2",
+    "value": -1.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/uv/0",
+    "value": 27.625,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/uv/1",
+    "value": 0.125,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/faces/down",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/faces/east",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/faces/north",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/faces/south",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/faces/up",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/faces/west",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/1",
+    "value": 2.8,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/1",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/1",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/0",
+    "value": 20.25,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/1",
+    "value": 1.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textureHeight",
+    "value": 64,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "add",
+    "path": "/textureSizes/seraph",
+    "value": [
+      64,
+      64
+    ],
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textureWidth",
+    "value": 64,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus30-fat.json"
+  }
+]

@@ -1,0 +1,795 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children",
+    "value": [
+      {
+        "name": "L string",
+        "from": [
+          0.0,
+          1.0,
+          -0.4
+        ],
+        "to": [
+          6.6,
+          1.5,
+          0.1
+        ],
+        "rotationOrigin": [
+          0.0,
+          1.5,
+          -0.4
+        ],
+        "rotationY": 21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              3.0,
+              15.5,
+              9.5,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              13.5,
+              15.5,
+              14.0,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              6.5,
+              15.5,
+              13.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              8.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              8.5,
+              15.5,
+              15.0,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              5.0,
+              15.5,
+              11.5,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "horn",
+        "from": [
+          -2.8,
+          2.6,
+          0.9
+        ],
+        "to": [
+          0.2,
+          3.1,
+          1.4
+        ],
+        "rotationOrigin": [
+          0.2,
+          2.6,
+          0.9
+        ],
+        "rotationX": 10.0,
+        "rotationY": -20.0,
+        "rotationZ": -34.0,
+        "faces": {
+          "north": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              0.0,
+              0.0,
+              3.0,
+              0.5
+            ]
+          },
+          "east": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              0.0,
+              0.0,
+              0.5,
+              0.5
+            ]
+          },
+          "south": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              0.0,
+              0.0,
+              3.0,
+              0.5
+            ]
+          },
+          "west": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              0.0,
+              0.0,
+              0.5,
+              0.5
+            ]
+          },
+          "up": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              0.0,
+              0.0,
+              3.0,
+              0.5
+            ]
+          },
+          "down": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              0.0,
+              0.0,
+              3.0,
+              0.5
+            ]
+          }
+        },
+        "children": [
+          {
+            "name": "Cube16",
+            "from": [
+              -1.5,
+              0.5,
+              0.0
+            ],
+            "to": [
+              0.5,
+              1.0,
+              0.5
+            ],
+            "rotationOrigin": [
+              0.5,
+              0.5,
+              0.3
+            ],
+            "rotationX": -16.0,
+            "rotationZ": 77.0,
+            "faces": {
+              "north": {
+                "texture": "#mask-hazmat",
+                "uv": [
+                  0.0,
+                  0.0,
+                  2.0,
+                  0.5
+                ]
+              },
+              "east": {
+                "texture": "#mask-hazmat",
+                "uv": [
+                  0.0,
+                  0.0,
+                  0.5,
+                  0.5
+                ]
+              },
+              "south": {
+                "texture": "#mask-hazmat",
+                "uv": [
+                  0.0,
+                  0.0,
+                  2.0,
+                  0.5
+                ]
+              },
+              "west": {
+                "texture": "#mask-hazmat",
+                "uv": [
+                  0.0,
+                  0.0,
+                  0.5,
+                  0.5
+                ]
+              },
+              "up": {
+                "texture": "#mask-hazmat",
+                "uv": [
+                  0.0,
+                  0.0,
+                  2.0,
+                  0.5
+                ]
+              },
+              "down": {
+                "texture": "#mask-hazmat",
+                "uv": [
+                  0.0,
+                  0.0,
+                  2.0,
+                  0.5
+                ]
+              }
+            },
+            "children": [
+              {
+                "name": "Cube17",
+                "from": [
+                  -1.6,
+                  0.1,
+                  0.0
+                ],
+                "to": [
+                  0.4,
+                  0.6,
+                  0.5
+                ],
+                "rotationOrigin": [
+                  0.4,
+                  0.1,
+                  0.3
+                ],
+                "rotationX": -2.0,
+                "rotationY": -5.0,
+                "rotationZ": 41.0,
+                "faces": {
+                  "north": {
+                    "texture": "#mask-hazmat",
+                    "uv": [
+                      0.0,
+                      0.0,
+                      2.0,
+                      0.5
+                    ]
+                  },
+                  "east": {
+                    "texture": "#mask-hazmat",
+                    "uv": [
+                      0.0,
+                      0.0,
+                      0.5,
+                      0.5
+                    ]
+                  },
+                  "south": {
+                    "texture": "#mask-hazmat",
+                    "uv": [
+                      0.0,
+                      0.0,
+                      2.0,
+                      0.5
+                    ]
+                  },
+                  "west": {
+                    "texture": "#mask-hazmat",
+                    "uv": [
+                      0.0,
+                      0.0,
+                      0.5,
+                      0.5
+                    ]
+                  },
+                  "up": {
+                    "texture": "#mask-hazmat",
+                    "uv": [
+                      0.0,
+                      0.0,
+                      2.0,
+                      0.5
+                    ]
+                  },
+                  "down": {
+                    "texture": "#mask-hazmat",
+                    "uv": [
+                      0.0,
+                      0.0,
+                      2.0,
+                      0.5
+                    ]
+                  }
+                },
+                "children": [
+                  {
+                    "name": "Cube18",
+                    "from": [
+                      -1.7,
+                      0.0,
+                      0.1
+                    ],
+                    "to": [
+                      0.3,
+                      0.4,
+                      0.5
+                    ],
+                    "rotationOrigin": [
+                      0.3,
+                      0.0,
+                      0.4
+                    ],
+                    "rotationY": -6.0,
+                    "rotationZ": 17.0,
+                    "faces": {
+                      "north": {
+                        "texture": "#mask-hazmat",
+                        "uv": [
+                          14.0,
+                          13.5,
+                          14.5,
+                          15.5
+                        ],
+                        "rotation": 90
+                      },
+                      "east": {
+                        "texture": "#mask-hazmat",
+                        "uv": [
+                          4.5,
+                          13.0,
+                          5.0,
+                          13.5
+                        ]
+                      },
+                      "south": {
+                        "texture": "#mask-hazmat",
+                        "uv": [
+                          14.0,
+                          12.5,
+                          14.5,
+                          14.5
+                        ],
+                        "rotation": 90
+                      },
+                      "west": {
+                        "texture": "#mask-hazmat",
+                        "uv": [
+                          14.0,
+                          13.5,
+                          14.5,
+                          14.0
+                        ]
+                      },
+                      "up": {
+                        "texture": "#mask-hazmat",
+                        "uv": [
+                          14.0,
+                          13.5,
+                          16.0,
+                          14.0
+                        ]
+                      },
+                      "down": {
+                        "texture": "#mask-hazmat",
+                        "uv": [
+                          12.5,
+                          13.5,
+                          14.5,
+                          14.0
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L string2",
+        "from": [
+          -2.2,
+          -1.6,
+          1.5
+        ],
+        "to": [
+          1.4,
+          -1.1,
+          2.0
+        ],
+        "rotationOrigin": [
+          -2.2,
+          -1.1,
+          1.5
+        ],
+        "rotationY": 21.0,
+        "rotationZ": 28.0,
+        "faces": {
+          "north": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              3.0,
+              15.5,
+              6.5,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              13.5,
+              15.5,
+              14.0,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              6.5,
+              15.5,
+              10.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              8.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              8.5,
+              15.5,
+              12.0,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              5.0,
+              15.5,
+              8.5,
+              16.0
+            ]
+          }
+        }
+      }
+    ],
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children",
+    "value": [
+      {
+        "name": "R string",
+        "from": [
+          0.1,
+          1.0,
+          2.4
+        ],
+        "to": [
+          6.7,
+          1.5,
+          2.9
+        ],
+        "rotationOrigin": [
+          0.1,
+          1.5,
+          2.8
+        ],
+        "rotationY": -21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              4.5,
+              15.5,
+              11.0,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              11.0,
+              15.5,
+              11.5,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              6.5,
+              15.5,
+              13.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              1.0,
+              15.5,
+              1.5,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              6.0,
+              15.5,
+              12.5,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              5.5,
+              15.5,
+              12.0,
+              16.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "R string2",
+        "from": [
+          -2.1,
+          -1.4,
+          0.5
+        ],
+        "to": [
+          1.5,
+          -0.9,
+          1.0
+        ],
+        "rotationOrigin": [
+          -2.1,
+          -0.9,
+          0.9
+        ],
+        "rotationY": -21.0,
+        "rotationZ": 28.0,
+        "faces": {
+          "north": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              4.5,
+              15.5,
+              8.0,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              11.0,
+              15.5,
+              11.5,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              6.5,
+              15.5,
+              10.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              1.0,
+              15.5,
+              1.5,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              6.0,
+              15.5,
+              9.5,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#mask-hazmat",
+            "uv": [
+              5.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          }
+        }
+      }
+    ],
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/from/0",
+    "value": -2.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/from/1",
+    "value": -1.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/from/2",
+    "value": -1.8,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/rotationOrigin/0",
+    "value": -2.3,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/rotationOrigin/1",
+    "value": -0.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/rotationOrigin/2",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/0",
+    "value": -2.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/1",
+    "value": -0.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/2",
+    "value": 0.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/from/0",
+    "value": -2.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/from/1",
+    "value": -1.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/from/2",
+    "value": 0.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationOrigin/0",
+    "value": -2.3,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationOrigin/1",
+    "value": -1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/rotationOrigin/2",
+    "value": 0.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/to/0",
+    "value": -2.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/to/1",
+    "value": -0.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/to/2",
+    "value": 2.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/from/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/rotationOrigin/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/to/0",
+    "value": 6.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/0",
+    "value": -0.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/0",
+    "value": -0.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/2",
+    "value": 1.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationZ",
+    "value": -8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": -0.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/rotwalker.json"
+  }
+]

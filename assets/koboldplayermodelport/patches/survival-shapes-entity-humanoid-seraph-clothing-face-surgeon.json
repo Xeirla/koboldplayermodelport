@@ -1,0 +1,2100 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/children",
+    "value": [
+      {
+        "name": "L string",
+        "from": [
+          0.0,
+          1.0,
+          -0.5
+        ],
+        "to": [
+          6.6,
+          1.5,
+          0.0
+        ],
+        "rotationOrigin": [
+          0.0,
+          1.5,
+          -0.5
+        ],
+        "rotationY": 21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              3.0,
+              15.5,
+              9.5,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              13.5,
+              15.5,
+              14.0,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              6.5,
+              15.5,
+              13.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              8.5,
+              15.5,
+              9.0,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              8.5,
+              15.5,
+              15.0,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              5.0,
+              15.5,
+              11.5,
+              16.0
+            ]
+          }
+        }
+      }
+    ],
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/3",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/0",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/east/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/3",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/3",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/3",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/0",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/1",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/children",
+    "value": [
+      {
+        "name": "R string",
+        "from": [
+          0.1,
+          1.0,
+          2.5
+        ],
+        "to": [
+          6.7,
+          1.5,
+          3.0
+        ],
+        "rotationOrigin": [
+          0.1,
+          1.5,
+          2.9
+        ],
+        "rotationY": -21.0,
+        "rotationZ": -1.0,
+        "faces": {
+          "north": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              4.5,
+              15.5,
+              11.0,
+              16.0
+            ]
+          },
+          "east": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              11.0,
+              15.5,
+              11.5,
+              16.0
+            ]
+          },
+          "south": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              6.5,
+              15.5,
+              13.0,
+              16.0
+            ]
+          },
+          "west": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              1.0,
+              15.5,
+              1.5,
+              16.0
+            ]
+          },
+          "up": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              6.0,
+              15.5,
+              12.5,
+              16.0
+            ]
+          },
+          "down": {
+            "texture": "#mask-surgeon",
+            "uv": [
+              5.5,
+              15.5,
+              12.0,
+              16.0
+            ]
+          }
+        }
+      }
+    ],
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/3",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/1",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/2",
+    "value": 9.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/east/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/3",
+    "value": 3.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/0",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/1",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/2",
+    "value": 12.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/3",
+    "value": 4.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/3",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/1",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/west/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/down/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/up/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/uv/0",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/uv/1",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/children/0/faces/west/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/3",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/0",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/west/uv/3",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/down/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/up/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/west/uv/1",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/children/0/faces/west/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/down/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/north/uv/3",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/up/uv/3",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/0",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/2",
+    "value": 9.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/3/faces/west/uv/3",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/down/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/east/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/north/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/south/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/up/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/west/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/west/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/west/uv/2",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/faces/west/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/from/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/rotationOrigin/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/to/0",
+    "value": 6.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/down/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/down/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/east/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/north/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/south/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/up/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/up/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/west/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/west/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/west/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/children/0/faces/west/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/down/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/down/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/east/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/north/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/south/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/up/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/up/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/west/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/west/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/west/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/children/0/faces/west/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/down/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/down/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/east/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/north/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/south/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/up/uv/2",
+    "value": 2.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/up/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/west/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/west/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/west/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/children/0/faces/west/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/down/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/down/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/east/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/north/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/south/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/up/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/up/uv/3",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/west/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/west/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/west/uv/2",
+    "value": 1.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/children/0/faces/west/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/down/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/down/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/down/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/down/uv/3",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/east/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/east/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/east/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/east/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/north/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/north/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/north/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/north/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/south/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/south/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/south/uv/2",
+    "value": 7.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/south/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/up/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/up/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/up/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/up/uv/3",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/west/uv/0",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/west/uv/1",
+    "value": 4.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/west/uv/2",
+    "value": 8.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/faces/west/uv/3",
+    "value": 5.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/0",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/1",
+    "value": 0.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/2",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/3",
+    "value": 0.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/0",
+    "value": -2.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/from/1",
+    "value": 1.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/0",
+    "value": -2.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/1",
+    "value": 1.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationZ",
+    "value": -25.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": -2.7,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/1",
+    "value": 1.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textureHeight",
+    "value": 16,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textures/mask-surgeon",
+    "value": "entity/humanoid/seraphclothes/face/surgeon",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textureWidth",
+    "value": 16,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/face/surgeon.json"
+  }
+]

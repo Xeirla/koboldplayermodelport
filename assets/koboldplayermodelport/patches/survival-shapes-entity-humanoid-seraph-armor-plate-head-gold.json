@@ -1,0 +1,115 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/0/autoUnwrap",
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/down/uv/3",
+    "value": 18.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/north/uv/1",
+    "value": 24.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/south/uv/3",
+    "value": 22.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/3",
+    "value": 18.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/west/uv/1",
+    "value": 24.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/1",
+    "value": 2.71,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/rotationOrigin/1",
+    "value": 3.3,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/1",
+    "value": 4.71,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/3",
+    "value": 33.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/0",
+    "value": 26.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 45.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.4,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/0",
+    "value": 26.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/1",
+    "value": 14.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/plate/head-gold.json"
+  }
+]

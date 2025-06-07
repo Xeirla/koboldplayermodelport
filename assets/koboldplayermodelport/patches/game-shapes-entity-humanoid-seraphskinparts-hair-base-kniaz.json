@@ -1,0 +1,333 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/collapsedPaths",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        0.0,
+        12.0,
+        2.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        3.0,
+        8.0,
+        3.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        3.0,
+        6.0,
+        3.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        9.0,
+        3.0,
+        15.0,
+        3.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/0/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        15.0,
+        3.0,
+        17.0,
+        3.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/faces/up/uv/2",
+    "value": 21.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        0.0,
+        12.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.0,
+        0.5,
+        6.5,
+        3.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.5,
+        0.5,
+        12.5,
+        3.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        6.0,
+        0.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/children/1/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        12.5,
+        0.5,
+        13.0,
+        3.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/2",
+    "value": 21.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 6.3,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        14.0,
+        26.0,
+        20.0,
+        31.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/0/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        6.5,
+        20.0,
+        12.0,
+        26.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 21.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 6.1,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/renderInEditor",
+    "value": false,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/down",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.0,
+        0.0,
+        6.5,
+        5.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/east",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        27.0,
+        16.0,
+        32.0,
+        24.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/north",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        20.5,
+        1.5,
+        27.0,
+        10.0
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/south",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        0.5,
+        20.5,
+        9.0,
+        27.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/up",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        17.0,
+        5.5,
+        22.0,
+        12.0
+      ],
+      "rotation": 90,
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "add",
+    "path": "/elements/1/faces/west",
+    "value": {
+      "texture": "#hair",
+      "uv": [
+        22.0,
+        10.0,
+        27.0,
+        18.5
+      ],
+      "enabled": false
+    },
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-base/kniaz.json"
+  }
+]

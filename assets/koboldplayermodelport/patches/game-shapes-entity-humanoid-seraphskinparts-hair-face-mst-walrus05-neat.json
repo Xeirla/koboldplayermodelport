@@ -1,0 +1,634 @@
+[
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children",
+    "value": [
+      {
+        "name": "Cube2",
+        "from": [
+          -1.8,
+          0.5,
+          0.0
+        ],
+        "to": [
+          0.2,
+          2.5,
+          0.6
+        ],
+        "autoUnwrap": false,
+        "uv": [
+          26.875,
+          -0.125
+        ],
+        "rotationOrigin": [
+          -1.8,
+          0.5,
+          0.0
+        ],
+        "faces": {
+          "north": {
+            "texture": "#seraph",
+            "uv": [
+              27.5,
+              0.5,
+              29.5,
+              2.5
+            ]
+          },
+          "east": {
+            "texture": "#seraph",
+            "uv": [
+              29.0,
+              0.5,
+              29.5,
+              2.5
+            ]
+          },
+          "south": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              0.5,
+              31.5,
+              2.5
+            ]
+          },
+          "west": {
+            "texture": "#seraph",
+            "uv": [
+              31.5,
+              0.5,
+              32.0,
+              2.5
+            ]
+          },
+          "up": {
+            "texture": "#seraph",
+            "uv": [
+              28.0,
+              0.0,
+              30.0,
+              0.5
+            ]
+          },
+          "down": {
+            "texture": "#seraph",
+            "uv": [
+              29.0,
+              0.0,
+              31.0,
+              0.5
+            ]
+          }
+        }
+      },
+      {
+        "name": "Cube3",
+        "from": [
+          -1.0,
+          2.5,
+          0.0
+        ],
+        "to": [
+          1.0,
+          3.7,
+          0.6
+        ],
+        "uv": [
+          27.375,
+          0.625
+        ],
+        "rotationOrigin": [
+          -1.0,
+          2.5,
+          0.0
+        ],
+        "faces": {
+          "north": {
+            "texture": "#seraph",
+            "uv": [
+              27.5,
+              1.5,
+              29.5,
+              2.5
+            ]
+          },
+          "east": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              1.5,
+              30.0,
+              2.5
+            ]
+          },
+          "south": {
+            "texture": "#seraph",
+            "uv": [
+              30.0,
+              1.5,
+              32.0,
+              2.5
+            ]
+          },
+          "west": {
+            "texture": "#seraph",
+            "uv": [
+              32.0,
+              1.5,
+              32.5,
+              2.5
+            ]
+          },
+          "up": {
+            "texture": "#seraph",
+            "uv": [
+              27.5,
+              0.5,
+              29.5,
+              1.0
+            ]
+          },
+          "down": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              0.5,
+              31.5,
+              1.0
+            ]
+          }
+        }
+      },
+      {
+        "name": "Cube4",
+        "from": [
+          -0.3,
+          3.7,
+          0.0
+        ],
+        "to": [
+          1.0,
+          4.8,
+          0.6
+        ],
+        "uv": [
+          28.5,
+          1.125
+        ],
+        "rotationOrigin": [
+          -0.3,
+          3.7,
+          0.0
+        ],
+        "faces": {
+          "north": {
+            "texture": "#seraph",
+            "uv": [
+              28.5,
+              1.5,
+              29.625,
+              2.25
+            ]
+          },
+          "east": {
+            "texture": "#seraph",
+            "uv": [
+              29.625,
+              1.5,
+              30.0,
+              2.25
+            ]
+          },
+          "south": {
+            "texture": "#seraph",
+            "uv": [
+              30.0,
+              1.5,
+              31.125,
+              2.25
+            ]
+          },
+          "west": {
+            "texture": "#seraph",
+            "uv": [
+              31.125,
+              1.5,
+              31.5,
+              2.25
+            ]
+          },
+          "up": {
+            "texture": "#seraph",
+            "uv": [
+              28.5,
+              1.125,
+              29.625,
+              1.5
+            ]
+          },
+          "down": {
+            "texture": "#seraph",
+            "uv": [
+              29.625,
+              1.125,
+              30.75,
+              1.5
+            ]
+          }
+        }
+      },
+      {
+        "name": "Cube5",
+        "from": [
+          1.0,
+          3.4,
+          0.0
+        ],
+        "to": [
+          3.0,
+          5.4,
+          0.6
+        ],
+        "uv": [
+          27.5,
+          -0.125
+        ],
+        "rotationOrigin": [
+          1.0,
+          3.4,
+          0.0
+        ],
+        "faces": {
+          "north": {
+            "texture": "#seraph",
+            "uv": [
+              27.5,
+              0.5,
+              29.5,
+              2.5
+            ]
+          },
+          "east": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              0.5,
+              30.0,
+              2.5
+            ]
+          },
+          "south": {
+            "texture": "#seraph",
+            "uv": [
+              30.0,
+              0.5,
+              32.0,
+              2.5
+            ]
+          },
+          "west": {
+            "texture": "#seraph",
+            "uv": [
+              32.0,
+              0.5,
+              32.5,
+              2.5
+            ]
+          },
+          "up": {
+            "texture": "#seraph",
+            "uv": [
+              27.5,
+              0.0,
+              29.5,
+              0.5
+            ]
+          },
+          "down": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              0.0,
+              31.5,
+              0.5
+            ]
+          }
+        }
+      },
+      {
+        "name": "Cube6",
+        "from": [
+          3.0,
+          3.2,
+          0.0
+        ],
+        "to": [
+          5.0,
+          5.2,
+          0.6
+        ],
+        "uv": [
+          27.375,
+          -0.25
+        ],
+        "rotationOrigin": [
+          3.0,
+          3.2,
+          0.0
+        ],
+        "faces": {
+          "north": {
+            "texture": "#seraph",
+            "uv": [
+              27.5,
+              0.5,
+              29.5,
+              2.5
+            ]
+          },
+          "east": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              0.5,
+              30.0,
+              2.5
+            ]
+          },
+          "south": {
+            "texture": "#seraph",
+            "uv": [
+              30.0,
+              0.5,
+              32.0,
+              2.5
+            ]
+          },
+          "west": {
+            "texture": "#seraph",
+            "uv": [
+              32.0,
+              0.5,
+              32.5,
+              2.5
+            ]
+          },
+          "up": {
+            "texture": "#seraph",
+            "uv": [
+              27.5,
+              0.0,
+              29.5,
+              0.5
+            ]
+          },
+          "down": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              0.0,
+              31.5,
+              0.5
+            ]
+          }
+        }
+      },
+      {
+        "name": "Cube7",
+        "from": [
+          5.0,
+          2.7,
+          0.0
+        ],
+        "to": [
+          6.5,
+          4.7,
+          0.6
+        ],
+        "uv": [
+          27.75,
+          -0.125
+        ],
+        "rotationOrigin": [
+          5.0,
+          2.7,
+          0.0
+        ],
+        "faces": {
+          "north": {
+            "texture": "#seraph",
+            "uv": [
+              28.0,
+              0.5,
+              29.5,
+              2.5
+            ]
+          },
+          "east": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              0.5,
+              30.0,
+              2.5
+            ]
+          },
+          "south": {
+            "texture": "#seraph",
+            "uv": [
+              30.0,
+              0.5,
+              31.5,
+              2.5
+            ]
+          },
+          "west": {
+            "texture": "#seraph",
+            "uv": [
+              31.5,
+              0.5,
+              32.0,
+              2.5
+            ]
+          },
+          "up": {
+            "texture": "#seraph",
+            "uv": [
+              28.0,
+              0.0,
+              29.5,
+              0.5
+            ]
+          },
+          "down": {
+            "texture": "#seraph",
+            "uv": [
+              29.5,
+              0.0,
+              31.0,
+              0.5
+            ]
+          }
+        }
+      }
+    ],
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/east/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/0",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/0",
+    "value": 28.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 29.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/texture",
+    "value": "#seraph",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/0",
+    "value": 29.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/west/uv/2",
+    "value": 30.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/rotationOrigin/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/uv/0",
+    "value": 28.0,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textureHeight",
+    "value": 64,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textures/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "remove",
+    "path": "/textureSizes/hair",
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "add",
+    "path": "/textureSizes/seraph",
+    "value": [
+      64,
+      64
+    ],
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  },
+  {
+    "op": "replace",
+    "path": "/textureWidth",
+    "value": 64,
+    "file": "game:shapes/entity/humanoid/seraphskinparts/hair-face/mst-walrus05-neat.json"
+  }
+]

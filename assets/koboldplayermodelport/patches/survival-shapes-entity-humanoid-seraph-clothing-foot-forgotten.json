@@ -1,0 +1,468 @@
+[
+  {
+    "op": "add",
+    "path": "/animations",
+    "value": [
+      {
+        "name": "Walk",
+        "code": "walk",
+        "quantityframes": 25,
+        "onActivityStopped": "Rewind",
+        "onAnimationEnd": "Repeat",
+        "keyframes": []
+      }
+    ],
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "remove",
+    "path": "/editor/backDropShape",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "add",
+    "path": "/editor/collapsedPaths",
+    "value": "Root/shoe L/front fold 26/LwoolW1,Root/ShoeR/RflapN/RwoolN1,Root/ShoeR,Root/shoe R/RbackFold,Root/shoe R/RflapN/RwoolN1,Root/shoe R/front 1,Root/shoe R/RflapW,Root/shoe R/RflapS,Root/shoe R/RflapN,Root/shoe L/front fold 26,Root/ShoeL/Lback fold 25,Root/ShoeR/RflapS,Root/shoe L/N fold 23,Root/shoe L/back fold 25,Root/KneeFlapR/LbackWool6,Root/shoe R/RflapE,Root/shoe L/Lback fold 25,Root/shoe L/N fold 23/LfoldN1,Root/shoe L/LacesR1,Root/shoe L/S fold 24/LWoolS1,Root/shoe L/LacesL1,Root/shoe L/front16,Root/ShoeR/RflapE,Root/ShoeR/RflapN,Root/ShoeL/S fold 24,Root/shoe L/front 26,Root/ShoeL/N fold 23,Root/KneeFlapL/LwoolW1,Root/shoe L",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/from/1",
+    "value": 0.75,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/0/to/1",
+    "value": 1.75,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/down/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/north/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/south/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/faces/up/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/1/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/down/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/north/uv/2",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/faces/up/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/from/2",
+    "value": 2.8,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/2/to/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/from/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/4/to/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/from/1",
+    "value": 0.85,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/5/to/1",
+    "value": 1.85,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/6/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/6/from/1",
+    "value": 0.85,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/6/from/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/6/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/6/to/1",
+    "value": 1.85,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/children/6/to/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/down/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/north/uv/2",
+    "value": 6.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/south/uv/2",
+    "value": 13.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/faces/up/uv/2",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/stepParentName",
+    "value": "PawR",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/0/to/2",
+    "value": 2.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/from/1",
+    "value": 0.75,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/0/to/1",
+    "value": 1.75,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/down/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/north/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/south/uv/2",
+    "value": 5.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/faces/up/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/1/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/down/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/north/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/south/uv/2",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/faces/up/uv/2",
+    "value": 10.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/from/2",
+    "value": 2.8,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/2/to/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/3/children/0/rotationY",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/4/children/0/rotationX",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/4/children/0/rotationY",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "remove",
+    "path": "/elements/1/children/4/children/0/rotationZ",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/4/from/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/4/to/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/from/1",
+    "value": 0.85,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/5/to/1",
+    "value": 1.85,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/6/from/0",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/6/from/1",
+    "value": 0.85,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/6/from/2",
+    "value": 2.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/6/to/0",
+    "value": 3.2,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/6/to/1",
+    "value": 1.85,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/children/6/to/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/down/uv/3",
+    "value": 7.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/north/uv/2",
+    "value": 3.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/south/uv/2",
+    "value": 10.0,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/faces/up/uv/2",
+    "value": 14.5,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/stepParentName",
+    "value": "PawL",
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/0",
+    "value": 3.1,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/1/to/2",
+    "value": 2.9,
+    "file": "game:shapes/entity/humanoid/seraph/clothing/foot/forgotten.json"
+  }
+]

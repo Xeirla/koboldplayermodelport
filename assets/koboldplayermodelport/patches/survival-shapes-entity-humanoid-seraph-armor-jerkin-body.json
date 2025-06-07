@@ -1,0 +1,164 @@
+[
+  {
+    "op": "replace",
+    "path": "/editor/backDropShape",
+    "value": "shapes/entity/humanoid/seraph",
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/down/uv/0",
+    "value": 38.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/down/uv/1",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/down/uv/2",
+    "value": 41.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/down/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/east/uv/0",
+    "value": 38.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/east/uv/1",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/east/uv/2",
+    "value": 41.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/east/uv/3",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/north/uv/0",
+    "value": 36.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/north/uv/1",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/north/uv/2",
+    "value": 38.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/north/uv/3",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/south/uv/0",
+    "value": 41.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/south/uv/1",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/south/uv/2",
+    "value": 43.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/south/uv/3",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/up/uv/0",
+    "value": 36.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/up/uv/1",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/up/uv/2",
+    "value": 38.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/up/uv/3",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/west/uv/0",
+    "value": 43.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/west/uv/1",
+    "value": 11.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/west/uv/2",
+    "value": 46.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/faces/west/uv/3",
+    "value": 17.5,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/uv/0",
+    "value": 36.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  },
+  {
+    "op": "replace",
+    "path": "/elements/4/uv/1",
+    "value": 9.0,
+    "file": "game:shapes/entity/humanoid/seraph/armor/jerkin/body.json"
+  }
+]
